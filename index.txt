@@ -5,7 +5,7 @@
 6:I[1379,[],""]
 7:I[8287,[],""]
 8:I[5364,["888","static/chunks/888-49c37c585af29909.js","842","static/chunks/842-acccbd03236f4dfc.js","800","static/chunks/800-3b8a0f8f7a1401d0.js","177","static/chunks/app/layout-7c42a1c9aaa54ec1.js"],"default"]
-9:I[643,["888","static/chunks/888-49c37c585af29909.js","271","static/chunks/271-d2ed9885f86d4b56.js","842","static/chunks/842-acccbd03236f4dfc.js","620","static/chunks/620-53b74ad8752e1ce0.js","974","static/chunks/app/page-591b7eec846fb6d3.js"],"default"]
+9:I[643,["888","static/chunks/888-49c37c585af29909.js","271","static/chunks/271-d2ed9885f86d4b56.js","842","static/chunks/842-acccbd03236f4dfc.js","620","static/chunks/620-149bdd3ed93f5a8c.js","974","static/chunks/app/page-2698cd80c0e4c5c7.js"],"default"]
 a:I[8257,[],"MetadataBoundary"]
 c:I[8257,[],"OutletBoundary"]
 f:I[7295,[],"AsyncMetadataOutlet"]
